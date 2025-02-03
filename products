@@ -1,0 +1,42 @@
+{
+  "products_set_1": [
+    {
+      "image": "merchandise/tee_png.png",
+      "name": "Full Sleeve Regular Polo Neck T-Shirt",
+      "previous_price": 1190,
+      "price": 750
+    },
+    {
+      "image": "merchandise/bag_png.png",
+      "name": "Laptop Backpacks Black and Grey, 18 Liter",
+      "previous_price": 1699,
+      "price": 850
+    },
+    {
+      "image": "merchandise/bottle.png",
+      "name": "Vaccum Insulated Bottle with Tea Filter | 500ml | Stainless Steel & Leakage Proof",
+      "previous_price": 999,
+      "price": 500
+    }
+  ],
+  "products_set_2": [  
+    {
+      "image": "merchandise/cap.png",
+      "name": "Adjustable and Fashionable Baseball Cotton Caps",
+      "previous_price": 799,
+      "price": 550
+    },
+    {
+      "image": "merchandise/coffee-mug.png",
+      "name": "Black Ceramic Coffee Mug for Daily Use Microwave Safe Cylindrical, 325ml",
+      "previous_price": 699,
+      "price": 450
+    },
+    {
+      "image": "merchandise/office_bag_png.png",
+      "name": "Office Laptop Bag (14 inches) | Briefcase Notebook Water Resistant Laptop Bag",
+      "previous_price": 1599,
+      "price": 900
+    }
+  ]
+}
